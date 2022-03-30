@@ -1,0 +1,9 @@
+[user]
+	email = reilly_bernie@mac.com
+	name = Bernie Reilly
+[core]
+	editor = code --wait
+[commit]
+	template = /Users/bernie/.gitmessage
+[init]
+	defaultBranch = main
